@@ -1,0 +1,7 @@
+It is shown that,whatever the temperature to which a section of the atmosphere may be heated, no self-propagating chain of nuclear reaction likely to be started.
+The energy losses to radiation always over compensate the gains due to the reactions.
+This is true even with rather extravagant aussumptions concerning the reactivity of the nitrogen nuclei of the air.
+Theunly disquieting feature is that the ""safety factor", i.o. the ratio of losses to gains of energy, decreases rapidly with initial temperaturo, and descends value of only about 1.6 just boyond a l0-Mov temporhture.
+It is impossiblato reach such tomperature unless fission bombs or thermonuclear bombs are used which greatly exceed the bombs now under consideration.
+Dut even if bombs of the required volume (i.e, grenter than 1000 cubic meters) are employed,
+energy transfer from electrons to light quanta by Compton scattering will provide a further sfety factor and wil1 make chain rection in air impossible.
